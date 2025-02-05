@@ -5,7 +5,7 @@ package ticket.boooking.entities;
 
 public class Ticket {
 
-// auto incrementing id
+// auto incrementing ticketid
     private String ticketId;
     private String userId;
     private String source;
