@@ -3,7 +3,7 @@ package ticket.booking.entities;
 public class Train
 {
 
-//auto incrementing TainId
+//auto incrementing TainId.
     private String trainId;
     private String trainNo;
     private List<List<Integer>> seats;
