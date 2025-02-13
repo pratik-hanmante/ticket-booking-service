@@ -1,15 +1,21 @@
 
 
-package ticket.boooking.entities;
+package ticket.booking.entities;
 
 
 public class Ticket {
 
-// auto incrementing ticketid
     private String ticketId;
+
     private String userId;
+
     private String source;
+
     private String destination;
-    private Date dateOfTravel;
-    private Train trainl;
+
+    private String dateOfTravel;
+
+    private Train train;
+
+    public Ticket(){}
 }
