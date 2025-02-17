@@ -2,7 +2,7 @@ package ticket.booking.services;
 
 import ticket.booking.entities.User;
 
-import java.io.File; // file
+import java.io.File; // file object
 
 public class UserBookingService
 {
