@@ -36,8 +36,12 @@
     "stations": [
       "bangalore",
       "jaipur",
+<<<<<<< HEAD
       "delhi",
       "Latur"
+=======
+      "delhi"
+>>>>>>> c31a0eb (service package created)
     ]
   }
 ]

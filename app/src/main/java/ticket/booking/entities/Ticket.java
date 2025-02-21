@@ -5,6 +5,10 @@ package ticket.booking.entities;
 
 public class Ticket {
 
+<<<<<<< HEAD
+=======
+// auto incrementing ticketid
+>>>>>>> c31a0eb (service package created)
     private String ticketId;
 
     private String userId;
