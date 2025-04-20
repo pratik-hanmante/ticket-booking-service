@@ -7,7 +7,7 @@ public class Ticket {
 
 <<<<<<< HEAD
 =======
-// auto incrementing ticket ID,
+// auto incrementing ticket ID
 >>>>>>> c31a0eb (service package created)
     private String ticketId;
 
