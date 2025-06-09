@@ -11,7 +11,7 @@ public class UserBookingService
     private static final String USERS_PATH= "../localDB/users.json";
 
     public UserBookingService(User user1) {
-        //stores the user's data in the user 
+        //stores the user data in the user 
             this.user= user1;
         File users = new File(USERS_PATH);
     }
